@@ -1,0 +1,46 @@
+#+TITLE: Index for VLEAD Assets
+#+DATE: [2018-02-01 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document containes catalogue of all VLEAD projects related
+  assets on Google Drive.
+
+* VLEAD Assets
+
+|------+--------------------------+------------|
+| S.No | Asset                    | Links      |
+|------+--------------------------+------------|
+|    1 | OpenedX                  | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-aUktYXNYQ2RNRTg][Link]]       |
+|------+--------------------------+------------|
+|    2 | Feedback Portal          | [[https://drive.google.com/drive/folders/0B0V6lgtnnIOZT1JyNVNtYkJGazg][Link]]       |
+|------+--------------------------+------------|
+|    3 | Systems Model            | [[https://drive.google.com/drive/folders/19wQRl9DqWnIBUruERNzJuyAoOyZCY0s2][Link]]       |
+|------+--------------------------+------------|
+|    4 | Lab as a Service         | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-dE5Pb0o3amlEa0E][Link]]       |
+|------+--------------------------+------------|
+|    5 | Lab details              | [[https://drive.google.com/drive/folders/1wZxq6yQOLvEE8KjGpHAMNAgQlnlc8bc9][Link]]       |
+|------+--------------------------+------------|
+|    6 | Outreach portal-3.0      | [[https://drive.google.com/drive/folders/0B0V6lgtnnIOZd1lqNnQ5SzR1bWs][Link]]       |
+|------+--------------------------+------------|
+|    7 | Analytics                | [[https://drive.google.com/drive/folders/1Ue9KhTyWrKpboiZkbNl8CCmmhxu-3XOY][Link]]       |
+|------+--------------------------+------------|
+|    8 | phase3                   | [[https://drive.google.com/drive/folders/1WP3kOYNsLY6Qwygq4nI6a0SgBzW6QtH9][Link]]       |
+|------+--------------------------+------------|
+|    9 | CDAC-Security            | [[https://drive.google.com/drive/folders/0B3qhMmaejv6fclR4aG91UnBDXzg][Link]]       |
+|------+--------------------------+------------|
+|   10 | Vlabs platform           | [[https://drive.google.com/drive/folders/1AMHQSU28XkBHv8CbBp0likhb86940jDS][Link]]       |
+|------+--------------------------+------------|
+|   11 | Service                  | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-cHp1dkl0RkFraXM][Link]]       |
+|------+--------------------------+------------|
+|   12 | VLEAD cloud architecture | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-bG5Xc2hFc2dnV0U][Link]]       |
+|------+--------------------------+------------|
+|   13 | Experiment pedagogy      | [[https://drive.google.com/drive/folders/14HtFIQzK_6tyHFPk0lssOYqdVLs-jw4r][Link]]       |
+|------+--------------------------+------------|
+|   14 | Integration              | [[https://drive.google.com/drive/folders/1nrMm89AIuUMqNw7_CBubF2gIKr8p9Jwo][Link]]       |
+|------+--------------------------+------------|
+|   15 |                          |            |
+
