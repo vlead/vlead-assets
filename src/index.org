@@ -6,7 +6,7 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document containes catalogue of all VLEAD projects related
+  This document contains catalogue of all VLEAD projects related
   assets on Google Drive.
 
 * VLEAD Assets

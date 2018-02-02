@@ -1,0 +1,3 @@
+* VLEAD Assets
+  This repository contains catalogue of all VLEAD projects related
+  assets on Google Drive.
