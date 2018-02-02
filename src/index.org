@@ -11,36 +11,65 @@
 
 * VLEAD Assets
 
-|------+--------------------------+------------|
-| S.No | Asset                    | Links      |
-|------+--------------------------+------------|
-|    1 | OpenedX                  | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-aUktYXNYQ2RNRTg][Link]]       |
-|------+--------------------------+------------|
-|    2 | Feedback Portal          | [[https://drive.google.com/drive/folders/0B0V6lgtnnIOZT1JyNVNtYkJGazg][Link]]       |
-|------+--------------------------+------------|
-|    3 | Systems Model            | [[https://drive.google.com/drive/folders/19wQRl9DqWnIBUruERNzJuyAoOyZCY0s2][Link]]       |
-|------+--------------------------+------------|
-|    4 | Lab as a Service         | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-dE5Pb0o3amlEa0E][Link]]       |
-|------+--------------------------+------------|
-|    5 | Lab details              | [[https://drive.google.com/drive/folders/1wZxq6yQOLvEE8KjGpHAMNAgQlnlc8bc9][Link]]       |
-|------+--------------------------+------------|
-|    6 | Outreach portal-3.0      | [[https://drive.google.com/drive/folders/0B0V6lgtnnIOZd1lqNnQ5SzR1bWs][Link]]       |
-|------+--------------------------+------------|
-|    7 | Analytics                | [[https://drive.google.com/drive/folders/1Ue9KhTyWrKpboiZkbNl8CCmmhxu-3XOY][Link]]       |
-|------+--------------------------+------------|
-|    8 | phase3                   | [[https://drive.google.com/drive/folders/1WP3kOYNsLY6Qwygq4nI6a0SgBzW6QtH9][Link]]       |
-|------+--------------------------+------------|
-|    9 | CDAC-Security            | [[https://drive.google.com/drive/folders/0B3qhMmaejv6fclR4aG91UnBDXzg][Link]]       |
-|------+--------------------------+------------|
-|   10 | Vlabs platform           | [[https://drive.google.com/drive/folders/1AMHQSU28XkBHv8CbBp0likhb86940jDS][Link]]       |
-|------+--------------------------+------------|
-|   11 | Service                  | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-cHp1dkl0RkFraXM][Link]]       |
-|------+--------------------------+------------|
-|   12 | VLEAD cloud architecture | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-bG5Xc2hFc2dnV0U][Link]]       |
-|------+--------------------------+------------|
-|   13 | Experiment pedagogy      | [[https://drive.google.com/drive/folders/14HtFIQzK_6tyHFPk0lssOYqdVLs-jw4r][Link]]       |
-|------+--------------------------+------------|
-|   14 | Integration              | [[https://drive.google.com/drive/folders/1nrMm89AIuUMqNw7_CBubF2gIKr8p9Jwo][Link]]       |
-|------+--------------------------+------------|
-|   15 |                          |            |
+|------+----------------------------+-------|
+| S.No | Asset                      | Links |
+|------+----------------------------+-------|
+|    1 | OpenedX                    | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-aUktYXNYQ2RNRTg][Link]]  |
+|------+----------------------------+-------|
+|    2 | Feedback Portal            | [[https://drive.google.com/drive/folders/0B0V6lgtnnIOZT1JyNVNtYkJGazg][Link]]  |
+|------+----------------------------+-------|
+|    3 | Systems Model              | [[https://drive.google.com/drive/folders/19wQRl9DqWnIBUruERNzJuyAoOyZCY0s2][Link]]  |
+|------+----------------------------+-------|
+|    4 | Lab as a Service           | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-dE5Pb0o3amlEa0E][Link]]  |
+|------+----------------------------+-------|
+|    5 | Lab details                | [[https://drive.google.com/drive/folders/1wZxq6yQOLvEE8KjGpHAMNAgQlnlc8bc9][Link]]  |
+|------+----------------------------+-------|
+|    6 | Outreach portal-3.0        | [[https://drive.google.com/drive/folders/0B0V6lgtnnIOZd1lqNnQ5SzR1bWs][Link]]  |
+|------+----------------------------+-------|
+|    7 | Analytics                  | [[https://drive.google.com/drive/folders/1Ue9KhTyWrKpboiZkbNl8CCmmhxu-3XOY][Link]]  |
+|------+----------------------------+-------|
+|    8 | phase3                     | [[https://drive.google.com/drive/folders/1WP3kOYNsLY6Qwygq4nI6a0SgBzW6QtH9][Link]]  |
+|------+----------------------------+-------|
+|    9 | CDAC-Security              | [[https://drive.google.com/drive/folders/0B3qhMmaejv6fclR4aG91UnBDXzg][Link]]  |
+|------+----------------------------+-------|
+|   10 | Vlabs platform             | [[https://drive.google.com/drive/folders/1AMHQSU28XkBHv8CbBp0likhb86940jDS][Link]]  |
+|------+----------------------------+-------|
+|   11 | Services                   | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-cHp1dkl0RkFraXM][Link]]  |
+|------+----------------------------+-------|
+|   12 | VLEAD cloud architecture   | [[https://drive.google.com/drive/folders/0BwRYTs9tQLe-bG5Xc2hFc2dnV0U][Link]]  |
+|------+----------------------------+-------|
+|   13 | Experiment pedagogy        | [[https://drive.google.com/drive/folders/14HtFIQzK_6tyHFPk0lssOYqdVLs-jw4r][Link]]  |
+|------+----------------------------+-------|
+|   14 | Integration                | [[https://drive.google.com/drive/folders/1nrMm89AIuUMqNw7_CBubF2gIKr8p9Jwo][Link]]  |
+|------+----------------------------+-------|
+|   15 | Deployment                 | [[https://drive.google.com/drive/folders/1PCcBMyGmkzRaaN9eecOsKJxJF7l46R-Z][Link]]  |
+|------+----------------------------+-------|
+|   16 | VLEAD                      | [[https://drive.google.com/drive/folders/1jsj8oNgmmB1hoj8rlxPZ8hXs8J_cgzBB][Link]]  |
+|------+----------------------------+-------|
+|   17 | Workshops                  | [[https://drive.google.com/drive/folders/1rmL82khyhaLVtwko1B7tB4N6cxCHOpst][Link]]  |
+|------+----------------------------+-------|
+|   18 | Computer Science           | [[https://docs.google.com/drawings/d/1ALEp6lhsdSQ3-lZUYHLhuc0Kmos6ViSXDRQ3WVR2x5k/edit][Link]]  |
+|------+----------------------------+-------|
+|   19 | Content Creation           | [[https://docs.google.com/drawings/d/1IOCExYO9bDqxMZ4JY9fWhJ9cUiF1tn35icFzpIGefvc/edit][Link]]  |
+|------+----------------------------+-------|
+|   20 | Creation image for USB     | [[https://docs.google.com/drawings/d/1iauWCoox_YzNFEYuooX7bETP_jRNJn9r-np3u2S5v40/edit][Link]]  |
+|------+----------------------------+-------|
+|   21 | Creation of DPKG           | [[https://docs.google.com/drawings/d/1J89_OLomoTK5SLvSPtRvqRuJJMzLIVkhhTBmlVUpOOU/edit][Link]]  |
+|------+----------------------------+-------|
+|   22 | Data modeling entity       |       |
+|      | diagram                    | [[https://docs.google.com/drawings/d/1960E6vwRV9OqUOaUfyOU07btK4hQJLSyZwy1TOPeOF4/edit][Link]]  |
+|------+----------------------------+-------|
+|   23 | Vlabs experiment runtime   | [[https://docs.google.com/drawings/d/1lX2lKngP5ThDGvpmhmuPkqVI3o2odAVEoIcJgf0G0Xg/edit][Link]]  |
+|------+----------------------------+-------|
+|   24 | Institute-OC-NC-and-Target | [[https://docs.google.com/drawings/d/1WEnEb5L6_3NjUje-JWPvyHnYAFsaKRbn3_-PRRccs28/edit][Link]]  |
+|------+----------------------------+-------|
+|   25 | Layout of activities       | [[https://docs.google.com/drawings/d/1ZbG2HUXhVV52zDEVy0ldZqvCFLVS608aypOE4uPNmCw/edit][Link]]  |
+|------+----------------------------+-------|
+|   26 | Mid2                       | [[https://docs.google.com/drawings/d/1wUOjJ269zequOG5lDfot3miAEcBuL6R_Ac7ag_NL6bk/edit][Link]]  |
+|------+----------------------------+-------|
+|   27 | Org structure detailed     | [[https://docs.google.com/drawings/d/1WwBwd31dcmYh3BsWecQy-kQr2ijYNYwF-NnYVm_lvUw/edit][Link]]  |
+|------+----------------------------+-------|
+|   28 | State machine              | [[https://docs.google.com/drawings/d/1jKhBgVU2-p4-JMvrppPEUat8bmLk0_PgA6ITi26rws4/edit][Link]]  |
+|------+----------------------------+-------|
+
 
