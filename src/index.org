@@ -67,11 +67,13 @@
 |------+----------------------------+-------|
 |   26 | Mid2                       | [[https://docs.google.com/drawings/d/1wUOjJ269zequOG5lDfot3miAEcBuL6R_Ac7ag_NL6bk/edit][Link]]  |
 |------+----------------------------+-------|
-|   27 | Org structure detailed     | [[https://docs.google.com/drawings/d/1WwBwd31dcmYh3BsWecQy-kQr2ijYNYwF-NnYVm_lvUw/edit][Link]]  |
+|   27 | Browser JS model           | [[https://drive.google.com/drive/folders/1XoqUIHqlL4CtB9cIINPNYs3jYNq5GMti][Link]]  |
 |------+----------------------------+-------|
 |   28 | State machine              | [[https://docs.google.com/drawings/d/1jKhBgVU2-p4-JMvrppPEUat8bmLk0_PgA6ITi26rws4/edit][Link]]  |
 |------+----------------------------+-------|
 |   29 | College Cloud              | [[https://drive.google.com/drive/folders/0ByXaEVuYxZKBeXRyZW9YTGRuM1E][Link]]  |
+|------+----------------------------+-------|
+|   30 | Posters                    | [[https://drive.google.com/drive/folders/19jrnqQ9Cm4pw2AQOXJmZM6_LbJ812WVz][Link]]  |
 |------+----------------------------+-------|
 
 
